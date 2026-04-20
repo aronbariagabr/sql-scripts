@@ -55,12 +55,15 @@ sql-scripts/
 │   ├── insert_patients.sql
 │   ├── insert_transactions.sql
 
-⚡ Quickstart
+##⚡ Quickstart
 Clone the repository
+
 git clone https://github.com/aronbariagabr/sql-scripts.git
 cd sql-scripts
 
-#Architecture Diagram
+
+
+## 🗂 Architecture Diagram
 ┌───────────────────────────────┐
 │          Data Sources          │
 │   Sample datasets, insert SQL  │
@@ -91,14 +94,14 @@ cd sql-scripts
 │   Recruiter-ready SQL portfolio│
 └───────────────────────────────┘
 
-🔄 Workflow
+## 🔄 Workflow
 Load Sample Data → Insert test records into tables
 Schema Design → Create normalized tables with constraints
 Run Queries → Execute joins, subqueries, and CTEs
 Optimize → Apply indexing and tuning for performance
 Analytics → Generate reports and business insights
 
-🌱 Future Work
+## 🌱 Future Work
 Add advanced query optimization case studies
 Include healthcare and finance analytics dashboards
 Provide Dockerized database setup for quick demos
