@@ -1,4 +1,4 @@
-# SQL Scripts Portfolio
+## SQL Scripts Portfolio
 
 ![SQL](https://img.shields.io/badge/SQL-Portfolio-blue.svg)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
