@@ -55,11 +55,13 @@ sql-scripts/
 │   ├── insert_patients.sql
 │   ├── insert_transactions.sql
 
-##⚡ Quickstart
-Clone the repository
+## ⚡ Quickstart
 
+Clone the repository:
+```bash
 git clone https://github.com/aronbariagabr/sql-scripts.git
 cd sql-scripts
+
 
 
 
@@ -95,13 +97,17 @@ cd sql-scripts
 └───────────────────────────────┘
 
 ## 🔄 Workflow
-Load Sample Data → Insert test records into tables
-Schema Design → Create normalized tables with constraints
-Run Queries → Execute joins, subqueries, and CTEs
-Optimize → Apply indexing and tuning for performance
-Analytics → Generate reports and business insights
+
+1. Load Sample Data → Insert test records into tables  
+2. Schema Design → Create normalized tables with constraints  
+3. Run Queries → Execute joins, subqueries, and CTEs  
+4. Optimize → Apply indexing and tuning for performance  
+5. Analytics → Generate reports and business insights  
+
 
 ## 🌱 Future Work
-Add advanced query optimization case studies
-Include healthcare and finance analytics dashboards
-Provide Dockerized database setup for quick demos
+
+- Add advanced query optimization case studies  
+- Include healthcare and finance analytics dashboards  
+- Provide Dockerized database setup for quick demos  
+
