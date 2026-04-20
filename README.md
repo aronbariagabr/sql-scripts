@@ -96,6 +96,16 @@ cd sql-scripts
 │   Recruiter-ready SQL portfolio│
 └───────────────────────────────┘
 
+## 🗂 Architecture Diagram (Mermaid)
+
+flowchart TD
+    A[Data Sources<br/>Sample datasets, insert SQL] --> B[Schema Design<br/>Tables, constraints, relations]
+    B --> C[Queries<br/>Joins, subqueries, CTEs]
+    C --> D[Optimization<br/>Indexing, query tuning]
+    D --> E[Analytics<br/>Reports, business insights]
+    E --> F[End Impact<br/>Recruiter-ready SQL portfolio]
+
+
 ## 🔄 Workflow
 
 1. Load Sample Data → Insert test records into tables  
