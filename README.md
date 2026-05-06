@@ -96,7 +96,7 @@ cd sql-scripts
 │          End Impact            │
 │   Recruiter-ready SQL portfolio│
 └───────────────────────────────┘
-
+```
 ## 🔄 Workflow
 
 1. Load Sample Data → Insert test records into tables  
