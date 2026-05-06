@@ -63,7 +63,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/aronbariagabr/sql-scripts.git
 cd sql-scripts
-```
+
 
 
 ## 🗂 Architecture Diagram
