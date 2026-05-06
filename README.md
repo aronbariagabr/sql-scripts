@@ -54,6 +54,7 @@ sql-scripts/
 │── sample-data/
 │   ├── insert_patients.sql
 │   ├── insert_transactions.sql
+```
 
 ## ⚡ Quickstart
 
@@ -61,12 +62,11 @@ Clone the repository:
 ```bash
 git clone https://github.com/aronbariagabr/sql-scripts.git
 cd sql-scripts
+```
 
 
-
-
-## 🗂 Architecture Diagram
 ```markdown
+## 🗂 Architecture Diagram
 ┌───────────────────────────────┐
 │          Data Sources          │
 │   Sample datasets, insert SQL  │
