@@ -64,8 +64,9 @@ cd sql-scripts
 
 
 
-```markdown
+
 ## 🗂 Architecture Diagram
+```markdown
 ┌───────────────────────────────┐
 │          Data Sources          │
 │   Sample datasets, insert SQL  │
