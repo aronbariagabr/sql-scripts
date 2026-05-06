@@ -54,6 +54,7 @@ sql-scripts/
 │── sample-data/
 │   ├── insert_patients.sql
 │   ├── insert_transactions.sql
+
 ```
 
 ## ⚡ Quickstart
