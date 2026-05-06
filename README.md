@@ -64,7 +64,7 @@ cd sql-scripts
 
 
 
-
+```markdown
 ## 🗂 Architecture Diagram
 ┌───────────────────────────────┐
 │          Data Sources          │
