@@ -113,6 +113,7 @@ cd sql-scripts
 
 ```
 
+
 ## 🗂 Architecture Diagram (Mermaid)
 ```mermaid
 flowchart TD
