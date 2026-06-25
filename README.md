@@ -123,4 +123,21 @@ flowchart TD
     D --> E[Analytics<br/>Reports, business insights]
     E --> F[End Impact<br/>Recruiter-ready SQL portfolio]
 
+    %% Define color classes
+    classDef data fill:#ffcc00,stroke:#333,stroke-width:2px;
+    classDef schema fill:#00ccff,stroke:#333,stroke-width:2px;
+    classDef queries fill:#66ff66,stroke:#333,stroke-width:2px;
+    classDef optimize fill:#ff6666,stroke:#333,stroke-width:2px;
+    classDef analytics fill:#cc99ff,stroke:#333,stroke-width:2px;
+    classDef impact fill:#ffaa00,stroke:#333,stroke-width:2px;
+
+    %% Apply classes
+    class A data;
+    class B schema;
+    class C queries;
+    class D optimize;
+    class E analytics;
+    class F impact;
+
+
 
