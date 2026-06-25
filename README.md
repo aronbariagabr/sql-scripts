@@ -138,29 +138,5 @@ flowchart TD
     class D optimize;
     class E analytics;
     class F impact;
-```
-```mermaid
-flowchart TD
-    A[Step 1] --> B[Step 2]
-    B --> C[Step 3]
-    C --> D[Step 4]
-    D --> E[Step 5]
-    E --> F[Step 6]
-
-    %% Define multiple colors
-    classDef red fill:#ff6666,stroke:#333,stroke-width:2px;
-    classDef blue fill:#66ccff,stroke:#333,stroke-width:2px;
-    classDef green fill:#66ff66,stroke:#333,stroke-width:2px;
-    classDef purple fill:#cc99ff,stroke:#333,stroke-width:2px;
-    classDef orange fill:#ffcc66,stroke:#333,stroke-width:2px;
-    classDef teal fill:#33cccc,stroke:#333,stroke-width:2px;
-
-    %% Apply classes
-    class A red;
-    class B blue;
-    class C green;
-    class D purple;
-    class E orange;
-    class F teal;
 
 
